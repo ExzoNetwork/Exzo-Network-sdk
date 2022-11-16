@@ -2,7 +2,7 @@
   <h1> Exzo Network SDK </h1>
 </div>
 
-![banner](docs/static/img/banner.jpg)
+![banner](docs/static/img/Exzo_Network_plug-and-play_liquidity_staking_protocol.png)
 
 <div align="center">
   <a href="https://github.com/cosmos/cosmos-sdk/blob/main/LICENSE">
